@@ -36,6 +36,7 @@
 
   header{
     text-align: center;
+    padding-top: 4rem;
   }
 
   header h1 {
@@ -124,7 +125,7 @@
       font-size: 0.125em;
     }
   
-    header h2 {S
+    header h2 {
       font-size: 1.375em;
     }
   
